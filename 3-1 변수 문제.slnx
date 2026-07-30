@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="3-1 변수 문제/3-1 변수 문제.vcxproj" Id="ee6043c8-250c-4e3a-8648-0859afe67adf" />
+</Solution>
